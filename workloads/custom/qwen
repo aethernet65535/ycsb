@@ -1,0 +1,14 @@
+fieldcount=1
+fieldlength=1024
+recordcount=1000
+operationcount=2097152
+workload=site.ycsb.workloads.CoreWorkload
+
+readallfields=true
+
+readproportion=0.95
+updateproportion=0.05
+scanproportion=0
+insertproportion=0
+
+requestdistribution=zipfian
