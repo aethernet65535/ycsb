@@ -1,7 +1,6 @@
 fieldcount=1
 fieldlength=1024
 recordcount=7340032
-operationcount=7340032
 target=10000
 workload=site.ycsb.workloads.CoreWorkload
 
