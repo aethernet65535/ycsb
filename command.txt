@@ -1,4 +1,0 @@
-./bin/ycsb run mongodb -s -P workloads/custom/qwen \
-    -p mongodb.url=mongodb://127.0.0.1:27017/ycsb \
-    -p mongodb.maxconnections=128 \
-    > ycsb_load.log
