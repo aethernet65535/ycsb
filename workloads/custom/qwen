@@ -1,8 +1,8 @@
 fieldcount=1
 fieldlength=4064
-recordcount=1024
+recordcount=1048576
 operationcount=2147483647
-target=1
+target=100
 workload=site.ycsb.workloads.CoreWorkload
 
 readallfields=true
